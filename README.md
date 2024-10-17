@@ -1,6 +1,6 @@
 # latihan-ke1
 tugas nadin dan wani
 
-nama : wani ning astuti
-kelas : XI RPL C
-no.absen : 33
+Nama : wani
+Kelas : XI RPL C
+No : 33
